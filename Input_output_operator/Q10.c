@@ -13,6 +13,6 @@ int main()
     }
     else
     {
-        printf("disstance = %d\n",y-x);
+        printf("difference = %d\n",y-x);
     }
 }
